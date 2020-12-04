@@ -27,6 +27,8 @@
 
 ### 📖 Latest English blog posts
 <!-- BLOG-EN:START -->
+- [Hugo Multilingual](https://blog.porridgepi.ml/en/2020/04/hugo-multilingual/)
+- [Hello World](https://blog.porridgepi.ml/en/2020/04/hello-world/)
 <!-- BLOG-EN:END -->
 
 ### 📖 Latest Chinese blog posts
