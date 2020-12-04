@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Yikun a.k.a. PorridgePi 👋</h1>
+<h2 align="center">Hi there, I'm Yikun a.k.a. PorridgePi 👋</h2>
 <h3 align="center">A student who enjoys programming</h3>
+
+[![GitHub](https://img.shields.io/github/followers/porridgepi?labelColor=495867&color=495867&label=GitHub&style=flat-square&logo=GitHub)](https://github.com/porridgepi)
 
 - 🔭 I’m currently working on [CChat](https://github.com/xrowii/CChat)
 
@@ -9,7 +11,7 @@
 
 - ⚡ Fun fact **I also enjoy journaling and reading!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://twitter.com/porridgepi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="porridgepi" height="30" width="40" /></a>
 </p>
