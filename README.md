@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++ and Java**
 
-- 📝 I regulary write articles on [https://blog.porridgepi.ml/](https://blog.porridgepi.ml/)
+- 📝 I write and post articles on [my blog](https://blog.porridgepi.ml/)
 
 - ⚡ Fun fact **I also enjoy journaling and reading!**
 
