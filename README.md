@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/followers/porridgepi?labelColor=495867&color=495867&label=GitHub&style=flat-square&logo=GitHub)](https://github.com/porridgepi)
 
 
-- 🔭 I’m currently working on [CChat](https://github.com/xrowii/CChat)
+- 🔭 I’m currently working on [100DaysOfSwift](https://github.com/porridgepi/100DaysOfSwift)
 
 - 🌱 I’m currently learning **Swift and C++**
 
