@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [CChat](https://github.com/xrowii/CChat)
 
-- 🌱 I’m currently learning **C++ and Java**
+- 🌱 I’m currently learning **Swift and C++**
 
 - 📝 I write and post articles on [my blog](https://blog.porridgepi.ml/)
 
