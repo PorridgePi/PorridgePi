@@ -16,21 +16,30 @@
 
 [![@PorridgePi](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/porridgepi)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💬 Languages</h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<h3 align="left">🛠 Tools</h3>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+
+<h3 align="left">☁️ Platforms</h3>
+
+![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=Zapier&logoColor=white)
 ![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=Hexo&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=Hugo&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+<h3 align="left">💻 OS</h3>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=Zapier&logoColor=white)
 
 [![GitHub](https://img.shields.io/github/stars/porridgepi?labelColor=34626c&color=34626c&label=Total%20Stars&style=flat-square&logo=image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAahJREFUeNrt20eC4zAMRFH9+196lpMEymB/FzqwtnIBzzlfXzsAML0ffiwARgXzABgWTANgWDANgGHBNACGBdMAbvKjANxm6FlgAsA9gKGnwTyACsDQ64A0gBrA0AuhLIAVgChg5tUhawBBwMwLZJ4AxAAz7xF4BhACzLxN4hUAEcDMO0VeAxAA9I+a2x8BwMh7AP6Pt7kBMByss1mjsVkA1Gl2iwHuFMgDwNovCNqlOu8EXI24gGs7HwVcUjYA6U91jO19Q30ktT8gaOxI3wb6x/39WUH/BUVwf0Cw93Qa2h8Q7D+f+vuxT+7v1wX8GaEi7PdL/ihN4Lymk/YLVWG/VPZH+HV/wPxFOHwjUrpBgf9AglPcF/jFAziA3hikZvB8HMAByE8FSjd8LhKAA1geVF8QCYd9AH/k3YC9HzS+E8BNggCKhAAs4gJu5/KQom8BeCE+gHr9miADqlXcRAbUa2qaDShWrAnaxwNX505/W/O/deyfvJ/2vBhArfQBrZIPUGv9QftNBSB0c//h0AH5/uXeioWPCPMjul1/RlF1h5ycnJycnPwCoWgNq2wMrjsAAAAASUVORK5CYII=)](https://github.com/porridgepi)
 
