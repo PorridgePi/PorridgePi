@@ -16,12 +16,12 @@
 
 [![@PorridgePi](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/porridgepi)
 
-<h3 align="left">💬 Languages</h3>
+### 💬 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3 align="left">🛠 Tools</h3>
+### 🛠 Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -31,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
-<h3 align="left">☁️ Platforms</h3>
+### ☁️ Platforms
 
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=Zapier&logoColor=white)
@@ -39,7 +39,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<h3 align="left">💻 OS</h3>
+### 💻 OS
 
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -64,7 +64,7 @@
 - [Hello World 你好世界！](https://blog.porridgepi.ml/zh/2020/04/hello-world-%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/)
 <!-- BLOG-ZH:END -->
 
-<h3 align="left">📈 Statistics</h3>
+### 📈 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=porridgepi&show_icons=true&locale=en&count_private=true&bg_color=0e1116&text_color=fdfdfd&icon_color=fa8b02&title_color=fa8b02&hide_border=true">
