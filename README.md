@@ -64,6 +64,8 @@
 - [Hello World 你好世界！](https://blog.porridgepi.ml/zh/2020/04/hello-world-%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/)
 <!-- BLOG-ZH:END -->
 
+<h3 align="left">📈 Statistics</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=porridgepi&show_icons=true&locale=en&count_private=true&bg_color=0e1116&text_color=fdfdfd&icon_color=fa8b02&title_color=fa8b02&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PorridgePi&theme=dark&hide_border=true&background=0e1116">
