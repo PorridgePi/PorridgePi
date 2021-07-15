@@ -57,7 +57,7 @@
 
 ### 📖 Latest Chinese blog posts
 <!-- BLOG-ZH:START -->
-- [Hello World 你好世界！](https://blog.porridgepi.ml/zh/posts/2020/hello-world-%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/)
+- [Hello World 你好世界！](https://blog.porridgepi.cf/zh/posts/2020/hello-world-%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/)
 <!-- BLOG-ZH:END -->
 
 ### 📈 Statistics
