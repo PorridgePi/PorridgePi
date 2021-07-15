@@ -13,5 +13,5 @@ jobs:
         with:
           comment_tag_name: "BLOG-EN"
           commit_message: "update(blog): Update readme with latest English blog posts"
-          feed_list: "https://blog.porridgepi.ml/en/rss.xml"
+          feed_list: "https://blog.porridgepi.cf/en/rss.xml"
 

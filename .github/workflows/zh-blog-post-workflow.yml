@@ -13,4 +13,4 @@ jobs:
         with:
           comment_tag_name: "BLOG-ZH"
           commit_message: "update(blog): Update readme with latest Chinese blog posts"
-          feed_list: "https://blog.porridgepi.ml/zh/rss.xml"
+          feed_list: "https://blog.porridgepi.cf/zh/rss.xml"
