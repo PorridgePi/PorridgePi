@@ -50,9 +50,9 @@
 
 ### 📖 Latest English blog posts
 <!-- BLOG-EN:START -->
-- [Hi, Things 3](https://blog.porridgepi.ml/en/posts/2021/hi-things-3/)
-- [Hugo Multilingual](https://blog.porridgepi.ml/en/posts/2020/hugo-multilingual/)
-- [Hello World](https://blog.porridgepi.ml/en/posts/2020/hello-world/)
+- [Hi, Things 3](https://blog.porridgepi.cf/en/posts/2021/hi-things-3/)
+- [Hugo Multilingual](https://blog.porridgepi.cf/en/posts/2020/hugo-multilingual/)
+- [Hello World](https://blog.porridgepi.cf/en/posts/2020/hello-world/)
 <!-- BLOG-EN:END -->
 
 ### 📖 Latest Chinese blog posts
